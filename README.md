@@ -48,21 +48,6 @@
 
 ###
 
-<h4 align="left">My contacts</h5>
-
-###
-
-<div align="left">
-  <a href="https://twitter.com/LeJDGarcia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto://garciasalasjd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h6 align="right">}</h6>
 <h6 align="left">//Hello World!</h6>
 
