@@ -2,7 +2,9 @@
 
 ###
 
-<h2 align="left">Hi 👋! I'm Juan Diego</h2>
+<div align="center">
+  <img src="./pf_banner.png" style="width: 66%"/>
+</div>
 
 ###
 
