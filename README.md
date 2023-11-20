@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="./pf_banner.png" style="width: 66%"/>
+  <img src="./pf_banner.png"/>
 </div>
 
 ###
