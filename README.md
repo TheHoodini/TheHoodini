@@ -28,13 +28,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHoodini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TheHoodini&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <h3 align="center">And also work with</h3>
 
 ###
@@ -52,6 +45,21 @@
 ###
 
 <img src="https://raw.githubusercontent.com/TheHoodini/TheHoodini/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h4 align="left">My contacts</h5>
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/LeJDGarcia" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto://garciasalasjd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
