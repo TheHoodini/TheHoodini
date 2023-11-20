@@ -47,6 +47,6 @@
 ###
 
 <h6 align="right">}</h6>
-<h6 align="right">//Hello World!</h6>
+<h6 align="left">//Hello World!</h6>
 
 ###
