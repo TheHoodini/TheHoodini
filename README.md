@@ -1,4 +1,4 @@
-<h6 align="left">profile{</h6>
+<h6 align="left">profile(TheHoodini){</h6>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Systems & Computing Engineering student at Universidad del Norte. Game Design enthusiast</h4>
+<h4 align="center">Systems & Computing Engineering student at Universidad del Norte. Game Design enthusiast</h3>
 
 ###
 
@@ -47,5 +47,6 @@
 ###
 
 <h6 align="right">}</h6>
+<h6 align="right">//Hello World!</h6>
 
 ###
