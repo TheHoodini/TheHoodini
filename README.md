@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Systems & Computing Engineering student at Universidad del Norte. Game Design enthusiast</h3>
+<h2 align="center">Systems & Computing Engineering student at Universidad del Norte. Game Design enthusiast</h2>
 
 ###
 
