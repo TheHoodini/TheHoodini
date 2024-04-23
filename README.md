@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h3 align="center">I code with</h3>
 
 ###
 
