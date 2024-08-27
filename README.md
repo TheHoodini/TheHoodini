@@ -12,11 +12,11 @@
 
 ###
 
-<h3 align="center">I code with</h3>
+<h3>I code with</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -34,11 +34,11 @@
 
 ###
 
-<h3 align="center">And also work with</h3>
+<h3">And also work with</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeilustrator logo"  />
@@ -55,6 +55,11 @@
 </div>
 
 ###
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHoodini&layout=donut&theme=prussian&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=TheHoodini&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
 
 <img src="https://raw.githubusercontent.com/TheHoodini/TheHoodini/output/snake.svg" alt="Snake animation" />
 
