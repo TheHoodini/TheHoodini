@@ -6,7 +6,9 @@
   <img src="./pfbanner.png"/>
 </div>
 
-Hi! I'm Juan Diego, a Systems and Computing Engineering student with a passion for designing games, creativity and developing software.
+###
+
+Hi! I'm Juan Diego, a Systems and Computing Engineering student with a passion for designing games, many artistic mediums and developing software.
 
 <h2>A little about me</h2>
 
