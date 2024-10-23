@@ -19,7 +19,6 @@ Hi! I'm Juan Diego, a Systems and Computing Engineering student with a passion f
 * 🌟 I'm a self taught Game Developer, Graphic Designer and Front-end developer.
 * 📖 Continuing to expand my horizons in the field of game development and UI/UX.
 * 🎯 I have the dream of publishing my own video games.
-* ⚔️ My favorite video game is The Legend of Zelda: Breath of the Wild.
 
 <h2>Skills</h2>
 
