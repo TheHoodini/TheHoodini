@@ -7,12 +7,21 @@
 ###
 
 <div align="center">
-  <img src="./pfbanner.png"/>
+  <!-- Name -->
+  <div id="user-content-toc">
+    <ul align="center" style="list-style: none;">
+      <summary>
+        <h1>Hi👋🏻, I'm Juan Diego!</h1>
+      </summary>
+    </ul>
+  </div>
+  <!-- Subtitle -->
+  A Systems and Computing Engineering student with a passion for designing games, artistic mediums and developing software.
 </div>
 
-###
 
-Hi! I'm Juan Diego, a Systems and Computing Engineering student with a passion for designing games, many artistic mediums and developing software.
+
+###
 
 <h2>A little about me</h2>
 
@@ -72,9 +81,6 @@ Hi! I'm Juan Diego, a Systems and Computing Engineering student with a passion f
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHoodini&layout=donut&theme=prussian&hide_border=true&langs_count=5&hide=shaderlab,c%2B%2B,cmake,hlsl)
 ![Stats](https://github-readme-stats.vercel.app/api?username=TheHoodini&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-
-<h2>Contributions</h2>
-<img src="https://raw.githubusercontent.com/TheHoodini/TheHoodini/output/snake.svg" alt="Snake animation" />
 
 ###
 
