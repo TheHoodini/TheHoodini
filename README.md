@@ -44,10 +44,10 @@ Hi! I'm Juan Diego, a Systems and Computing Engineering student with a passion f
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="sass"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter logo"  />
   <img src="https://img.shields.io/badge/Node%20js-43B02A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="materialui"/>
 </div>
 
 ###
