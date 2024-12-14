@@ -88,9 +88,6 @@
 <a href='https://www.linkedin.com/in/juan-diego-garc%C3%ADa-salas-b80266268/' target='blank'>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height='40'>
 </a>
-<a href='https://www.behance.net/thehoodini' target='blank'>
-  <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height='40'>
-</a>
 
 ###
 
