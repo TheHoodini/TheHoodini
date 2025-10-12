@@ -70,8 +70,8 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="adobeilustrator logo"  />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity logo"  />
   <img src="https://img.shields.io/badge/Godot-488cbc?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="godot logo"  />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-white?style=for-the-badge&logo=framer&logoColor=black" alt="framer logo" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel logo" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma logo" />
 </div>
 
