@@ -75,12 +75,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma logo" />
 </div>
 
-###
-
-<h2>Stats</h2>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHoodini&layout=donut&theme=prussian&hide_border=true&langs_count=5&hide=shaderlab,c%2B%2B,cmake,hlsl)
-![Stats](https://github-readme-stats.vercel.app/api?username=TheHoodini&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
 ###
 
