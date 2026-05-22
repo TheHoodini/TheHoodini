@@ -16,7 +16,7 @@
     </ul>
   </div>
   <!-- Subtitle -->
-  A Systems and Computing Engineering student with a passion for designing games, artistic mediums and developing software.
+  Computing Engineer and Game Developer
 </div>
 
 
