@@ -1,6 +1,6 @@
 <h6 align="left">
-  Profile TheHoodini = new Profile(); <br>
-  TheHoodini.add(
+  Profile theHoodini = new Profile(); <br>
+  theHoodini.add(
 
 </h6>
 
@@ -45,5 +45,5 @@
 
 <h6 align="left">
   ); <br>
-  TheHoodini.show();
+  theHoodini.show();
 </h6>
